@@ -27,3 +27,7 @@ a:hover {
   border-style: none;
   box-shadow: none;
 }
+
+.spacer { 
+   margin-top: 50px;
+}
