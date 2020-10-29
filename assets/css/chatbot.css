@@ -71,8 +71,8 @@ img.aligncenter {
   margin-left: auto;
 }
 
-body {
-  background-color: #FFFFFF;
+html {
+  background-color: #061C30;
   border-style: none;
 }
 
@@ -89,17 +89,4 @@ a:hover {
   border: none;
   border-style: none;
   box-shadow: none;
-}
-
-/* -- Content -- */
-@keyframes fadein {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-html {
-  background-color: #061C30;
 }
